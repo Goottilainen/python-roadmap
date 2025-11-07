@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="608c372f-6135-4a8e-a3d9-783e0a180601" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/01_basics/comments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_basics/data_types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_basics/input_output.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_basics/mini_project_calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_basics/variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_control_flow/if_statements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_control_flow/logical_operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_control_flow/loops_for.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_control_flow/loops_while.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_control_flow/mini_project_guess_game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +39,13 @@
   "keyToString": {
     "Python.comments.executor": "Run",
     "Python.data_types.executor": "Run",
+    "Python.if_statements.executor": "Run",
     "Python.input_output.executor": "Run",
+    "Python.logical_operators.executor": "Run",
+    "Python.loops_for.executor": "Run",
+    "Python.loops_while.executor": "Run",
     "Python.mini_project_calculator.executor": "Run",
+    "Python.mini_project_guess_game.executor": "Run",
     "Python.variables.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
